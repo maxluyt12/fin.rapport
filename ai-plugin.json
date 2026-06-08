@@ -3,7 +3,7 @@
   "name_for_human": "Fin Rapport",
   "name_for_model": "fin_rapport",
   "description_for_human": "Genereer en raadpleeg financiële rapporten uit je repository.",
-  "description_for_model": "Gebruik deze plugin om financiële rapporten op te halen, samenvatten en analyseren. Ondersteunt zoekopdrachten en rapportmetadata.",
+  "description_for_model": "Gebruik deze plugin om financiële rapporten op te halen, samen te vatten en te analyseren. Ondersteunt zoekopdrachten en rapportmetadata.",
   "auth": {
     "type": "none"
   },
@@ -11,7 +11,7 @@
     "type": "openapi",
     "url": "https://raw.githubusercontent.com/maxluyt12/fin.rapport/main/.well-known/openapi.yaml"
   },
-  "logo_url": "https://raw.githubusercontent.com/maxluyt12/fin.rapport/main/logo.png",
-  "contact_email": "jouw-email@voorbeeld.com",
-  "legal_info_url": "https://your-domain.example.com/legal"
+  "logo_url": "https://raw.githubusercontent.com/maxluyt12/fin.rapport/main/plugins/codex/logo.svg",
+  "contact_email": "maxluyt12@example.com",
+  "legal_info_url": "https://example.com/legal"
 }
