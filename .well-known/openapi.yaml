@@ -1,0 +1,11 @@
+openapi: "3.0.1"
+info:
+  title: Fin Rapport API
+  version: "0.1.0"
+paths:
+  /reports:
+    get:
+      summary: List reports
+      responses:
+        '200':
+          description: OK
