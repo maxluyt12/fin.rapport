@@ -1,0 +1,16 @@
+﻿{
+  "name": "fin-rapport",
+  "version": "0.1.0",
+  "description": "Financiële rapportages ophalen, samenvatten en analyseren.",
+  "author": {
+    "name": "Max Luyt"
+  },
+  "repository": "https://github.com/maxluyt12/fin.rapport",
+  "license": "MIT",
+  "interface": {
+    "displayName": "Fin Rapport",
+    "shortDescription": "Financiële rapportages analyseren",
+    "developerName": "Max Luyt",
+    "category": "Finance"
+  }
+}

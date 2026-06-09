@@ -1,0 +1,20 @@
+﻿{
+  "name": "fin-rapport-marketplace",
+  "interface": {
+    "displayName": "Fin Rapport Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "fin-rapport",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codex"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Finance"
+    }
+  ]
+}
