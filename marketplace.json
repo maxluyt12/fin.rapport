@@ -1,0 +1,11 @@
+{
+  "marketplace_version": "v1",
+  "name": "Fin Rapport Marketplace Descriptor",
+  "description": "Descriptor voor Codex marketplace integratie. Verwijst naar het AI plugin manifest.",
+  "manifests": [
+    {
+      "type": "chat_plugin",
+      "path": "plugins/codex/ai-plugin.json"
+    }
+  ]
+}
